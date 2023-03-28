@@ -1,0 +1,16 @@
+.header-con{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ancor a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+ 
+}
