@@ -10,6 +10,7 @@ const SingleMeal = ( props) => {
             <img src={meal.strMealThumb} alt="" />
             <h5>Name: {meal.strMeal} </h5>
             <p>Area: {meal.strArea}</p>
+             
             <p>Ingredients: {meal.strTags}</p>
             {/* <p>Instructions: {meal.strInstructions}</p> */}
             <button onClick={()=> handleCheckList(meal)}>Add to CheckList <FontAwesomeIcon icon={faCheckToSlot} /></button>

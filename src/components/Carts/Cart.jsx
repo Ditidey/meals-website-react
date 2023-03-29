@@ -28,6 +28,7 @@ const Cart = ({checkList}) => {
            <div className='div'>
             <p>Item Name: {name}</p>
             <img className='img' src={img} alt="" />
+            <p>Read the instructions carefully..</p>
             <p>{inst}</p>
            </div>
         </div>
