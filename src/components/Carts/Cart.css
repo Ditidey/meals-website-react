@@ -1,0 +1,23 @@
+.cart{
+    text-align: center;
+    margin: 10px;
+    margin-top: 20px;
+    background-color: rgb(112, 156, 157);
+    border-radius: 8px;
+    position: sticky;
+    height: 50%;
+    padding-top: 20px;
+    top: 0;
+    color: rgb(255, 255, 250);
+}
+.div{
+    margin-top: 30px;
+    width: 80%;
+    margin: auto;
+    border: solid 1px wheat;
+    background-color: rgb(55, 187, 143);
+}
+.img{
+    width: 100px;
+    height: 80px;
+}

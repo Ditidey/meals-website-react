@@ -1,0 +1,31 @@
+.search-div{
+    text-align: center;
+    margin-top: 20px;
+}
+.search-div input{
+    width: 40%;
+     height: 30px;
+    border-radius: 10px;
+}
+.search-div button{
+    background-color: rgb(40, 134, 102);
+    border-radius: 10px;
+    margin-left: 5px;
+    color: aliceblue;
+}
+.search-div button:hover{
+    background-color: rgb(28, 43, 38);
+}
+.meals-container{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap: 10px;
+    border: solid 1px wheat;
+    border-radius: 8px;
+    margin-top: 20px;
+    padding: 20px;
+}
+.container-div{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}

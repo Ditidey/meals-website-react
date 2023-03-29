@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div>
              <div className='header-con'>
-             <h4>Diti's meals</h4>
+             <h4>Mojadar meals</h4>
              <div className='ancor'>
                 <a href="/home">Home</a>
                 <a href="./contact">Contact Us</a>

@@ -6,9 +6,7 @@ import Meals from './components/Meals/Meals';
   return (
     <div>
        <Header></Header>
-       <div>
-        <Meals></Meals>
-       </div>
+       <Meals></Meals>
     </div>
   );
  };
